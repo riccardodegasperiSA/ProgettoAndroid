@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/online"
+        android:icon="@drawable/ic_online"
+        android:title="SCARICA" />
+    <item
+        android:id="@+id/locale"
+        android:icon="@drawable/ic_locale"
+        android:title="LEGGI" />
+</menu>
